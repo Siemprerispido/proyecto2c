@@ -1,0 +1,62 @@
+
+.contenedor{
+	max-width: 800px;
+	margin: auto;
+}
+.menu{
+	background: yellow;
+}
+
+.menu ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+.menu ul{
+	float: right;
+}
+
+	header{
+		background: cyan;
+		text-align: center;
+		padding: 100px 0;
+	}
+
+.info1 article{
+	display: inline-block;
+	width: 49%
+}
+
+.redes{
+	text-align: center;
+	padding: 0;
+}
+
+.redes li{
+	display: inline-block;
+	color: white;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 7px;
+	box-sizing:border-box;
+}
+
+
+.icon1{
+	background: blue;
+}
+.icon2{
+	background: green;
+}
+.icon3{
+	background: #007bb5;
+}
+.icon4{
+	background: black;
+}
+.icon5{
+	background: red;
+}
